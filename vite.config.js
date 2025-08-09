@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react-swc'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/cicd-pop1/",
+  base:'/cicd-pop1/',
   plugins: [react()],
 })
